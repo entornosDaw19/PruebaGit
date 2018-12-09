@@ -2,7 +2,7 @@
 int main()
 {
 printf("Hola, esto es un ejemplo ....");
-  /* no se guarda !!!*/
+  /* modificamos y  se guarda !!!*/
 return 0;
 }
 

@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* Este programa visualiza el primer argumento ....*/
 int main(int argc, char *argv[])
 {
 printf("Hola, esto es un ejemplo ....");
